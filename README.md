@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Bachelor’s student in Computer Science at MFF UK (Charles University, Prague)
+- Bc CS student at MFF UK (Charles University, Prague)
 - Focus: Web & Data Engineering
 - Interests: Data science, computational music processing, AI (recommender systems, computer vision, linguistics) 
 - How to reach me:
