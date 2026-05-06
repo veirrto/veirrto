@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- Bachelor’s student in Computer Science at MFF UK (Charles University, Prague)
+- Focus: Web & Data Engineering
+- Interests: Data science, computational music processing, AI (recommender systems, computer vision, linguistics) 
+- How to reach me:
+    - **email**: faithvenusch@gmail.com
+    - **telegram**: @veirrto
+    - **discord**: @munfradkin
+
 <!--
 **veirrto/veirrto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
