@@ -5,7 +5,6 @@
 - Interests: Data science, computational music processing, AI (recommender systems, computer vision, linguistics) 
 - How to reach me:
     - **email**: faithvenusch@gmail.com
-    - **telegram**: @veirrto
     - **discord**: @munfradkin
 
 <!--
