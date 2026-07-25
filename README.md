@@ -2,7 +2,7 @@
 
 - Bc CS student at MFF UK (Charles University, Prague)
 - **Focus**: Web & Data Engineering
-- **Interests**: Data science & statistics, computational music processing, recommendation systems, other subfields of AI
+- **Interests**: Data science & statistics, computational music processing, recommendation systems, other subfields of AI, software engineering
 - How to reach me:
     - **email**: faithvenusch@gmail.com
     - **discord**: @munfradkin
