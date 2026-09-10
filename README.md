@@ -4,7 +4,6 @@
 - **Focus**: Web & Data Engineering
 - **Interests**: Data science & statistics, computational music processing, recommendation systems, other subfields of AI, data & software engineering
 - How to reach me:
-    - **email**: faithvenusch@gmail.com
     - **discord**: @munfradkin
 
 <!--
